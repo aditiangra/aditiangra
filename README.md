@@ -8,12 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/aditiangra" target="blank"><img src="https://img.shields.io/twitter/follow/angraaditi?logo=twitter&style=for-the-badge" alt="aditiangra" /></a> </p>
 
-- 🔭 I’m currently working on **My coding skills, some frontend stuff like HTML and CSS**
-
-- 🌱 I’m currently learning **Javascript**
-
-- 💬 Ask me about **C++,HTML,CSS and Bootstrap**
-
 - 📫 How to reach me **angra.aditi2002@gmail.com**
 
 - ⚡ Fun fact **I am selcouth👸🏻**
