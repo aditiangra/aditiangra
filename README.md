@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **angra.aditi2002@gmail.com**
 
-- ⚡ Fun fact **I am selcouth👸🏻**
+- ⚡ Fun fact **I am good at procrastination**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
