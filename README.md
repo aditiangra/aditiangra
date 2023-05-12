@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditiangra" alt="aditiangra" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aditiangra" target="blank"><img src="https://img.shields.io/twitter/follow/angraaditi?logo=twitter&style=for-the-badge" alt="aditiangra" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AngraAditi" target="blank"><img src="https://img.shields.io/twitter/follow/angraaditi?logo=twitter&style=for-the-badge" alt="aditiangra" /></a> </p>
 
 - 📫 How to reach me **angra.aditi2002@gmail.com**
 
@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://codepen.io/aditiangra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aditiangra" height="30" width="40" /></a>
   <a href="https://instagram.com/aditi_angra_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditi_angra" height="30" width="40" /></a>
-<a href="https://twitter.com/aditiangra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditiangra" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditiangra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditiangra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditiangra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aditi_angra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditi_angra" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/angra_aditi2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="angra_aditi2002" height="30" width="40" /></a>
