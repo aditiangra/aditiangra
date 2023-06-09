@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Aditi Angra</h1>
-<h3 align="center">Searching for peace in this chaos:)</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditiangra&label=Profile%20views&color=0e75b6&style=flat" alt="aditiangra" /> </p>
 
